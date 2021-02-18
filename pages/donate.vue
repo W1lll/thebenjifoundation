@@ -43,7 +43,7 @@ export default {}
   font-weight: 300;
   color: #35495e;
   opacity: 0;
-  animation: 1s appear linear 1s forwards;
+  animation: 2s appear linear 1s forwards;
 }
 
 .subtitle {
@@ -57,6 +57,6 @@ export default {}
 .links {
   padding-top: 15px;
   opacity: 0;
-  animation: 1s appear linear 2s forwards;
+  animation: 2s appear linear 2s forwards;
 }
 </style>
